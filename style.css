@@ -37,5 +37,9 @@ body {
 @media screen and (min-width:600px){
   body{
     background-size: 100%;
+    background-repeat: no-repeat;
+  }
+  #userinfo-box{
+    margin-top: 100px;
   }
 }
